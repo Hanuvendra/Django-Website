@@ -1,1 +1,1 @@
-# Django.github.io
+# Django Blog Website
